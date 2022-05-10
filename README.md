@@ -1,4 +1,4 @@
-# Some-Cellular-Automata
+# Rug Cellular Automata from Randomized Rules
 
 ![](109.png)
 ![](131.png)
